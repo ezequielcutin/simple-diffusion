@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Simple Diffusion** is an AI project aimed at developing a generative model using diffusion methods to produce lifelike floral images. This project focuses on creating a simplified version of ControlNet, integrating conditional control into image diffusion models to enhance image generation processes while maintaining computational efficiency.
+**Simple Diffusion** is an AI project aimed at developing a generative model using diffusion methods to produce lifelike floral images. This project focuses on creating a simplified version of ControlNet, integrating conditional control into image diffusion models to enhance image generation processes while maintaining computational efficiency. This project was completed as the final paper for the EECS 442 (Computer Vision) class at the University of Michigan.
 
 ## Motivation
 
